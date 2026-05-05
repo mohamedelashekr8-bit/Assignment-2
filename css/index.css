@@ -322,6 +322,7 @@ img {
 }
 .form-section4{
   margin-top: 45px;
+  padding-top: 50px;
 }
 
 .first-name{
@@ -339,7 +340,7 @@ img {
   border-style: solid;
   border-width: 1px;
   border-radius: 8px;
-  width: 440px;
+  width: 345px;
   height: 55px;
   margin-right: 25px;
 
@@ -360,7 +361,7 @@ img {
   border-style: solid;
   border-width: 1px;
   border-radius: 8px;
-  width: 440px;
+  width: 345px;
   height: 55px;
   margin-bottom: 30px;
 }
